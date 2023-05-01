@@ -1,0 +1,8 @@
+colorama==0.4.6
+Pillow==9.5.0
+pypng==0.20220715.0
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.1
+qrcode==7.4.2
+typing_extensions==4.5.0
